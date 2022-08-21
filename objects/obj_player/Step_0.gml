@@ -22,8 +22,4 @@ if(keyboard_check(ord("D")) || keyboard_check(ord("A")) || keyboard_check(ord("W
 }
 depth = -y;
 
-if(hp<=0){
-	room_goto(Room_Game_Over);	
-}
-
-show_debug_message("nos queda: " + string(hp));
+//show_debug_message("nos queda: " + string(hp));

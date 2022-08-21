@@ -22,6 +22,7 @@
       ],"visible":false,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"coliciones","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":512.0,"resourceVersion":"1.0","name":"inst_6E9AA53D_1","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_finish_game_trigger","path":"objects/obj_finish_game_trigger/obj_finish_game_trigger.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.5,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":512.0,"y":64.0,"resourceVersion":"1.0","name":"inst_7968FCBC","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"tile_set_city","path":"tilesets/tile_set_city/tile_set_city.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":86,"SerialiseHeight":48,"TileSerialiseData":[
 3466,3169,3166,3167,3169,3493,348,349,350,351,352,286,286,286,286,286,286,286,286,286,286,286,352,286,348,349,350,351,352,353,1426,1427,1428,1429,1430,1431,1432,1433,1434,1435,1426,1427,1428,1429,1430,1431,1432,1433,1434,1435,1426,1427,1428,1429,1430,1431,1432,1433,1434,1435,2597,2597,2597,2597,2597,2597,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
@@ -85,6 +86,7 @@
     {"name":"inst_52EBCC2_1","path":"rooms/Sala2/Sala2.yy",},
     {"name":"inst_33C78C6A_1","path":"rooms/Sala2/Sala2.yy",},
     {"name":"inst_7FB2D051_1","path":"rooms/Sala2/Sala2.yy",},
+    {"name":"inst_7968FCBC","path":"rooms/Sala2/Sala2.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
