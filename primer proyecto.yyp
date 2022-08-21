@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
     {"id":{"name":"spr_go_to_room","path":"sprites/spr_go_to_room/spr_go_to_room.yy",},"order":5,},
+    {"id":{"name":"src_get_input","path":"scripts/src_get_input/src_get_input.yy",},"order":0,},
     {"id":{"name":"spr_hazard","path":"sprites/spr_hazard/spr_hazard.yy",},"order":4,},
     {"id":{"name":"Sala2","path":"rooms/Sala2/Sala2.yy",},"order":1,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},

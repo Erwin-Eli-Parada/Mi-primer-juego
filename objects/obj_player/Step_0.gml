@@ -1,4 +1,5 @@
 /// @Este evento corre en cada frame
+src_get_input();
 if(keyboard_check(ord("D")) || keyboard_check(ord("A")) || keyboard_check(ord("W")) || keyboard_check(ord("S"))){
 	if(keyboard_check(ord("D"))){
 		x= x + spd;
