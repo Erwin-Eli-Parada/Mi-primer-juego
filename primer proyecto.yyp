@@ -7,6 +7,7 @@
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
     {"id":{"name":"obj_hazard","path":"objects/obj_hazard/obj_hazard.yy",},"order":2,},
     {"id":{"name":"obj_go_to_room","path":"objects/obj_go_to_room/obj_go_to_room.yy",},"order":3,},
+    {"id":{"name":"Room_Game_Over","path":"rooms/Room_Game_Over/Room_Game_Over.yy",},"order":2,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"spr_player_running","path":"sprites/spr_player_running/spr_player_running.yy",},"order":1,},
     {"id":{"name":"tile_set_city","path":"tilesets/tile_set_city/tile_set_city.yy",},"order":0,},
@@ -28,6 +29,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Sala1","path":"rooms/Sala1/Sala1.yy",},},
     {"roomId":{"name":"Sala2","path":"rooms/Sala2/Sala2.yy",},},
+    {"roomId":{"name":"Room_Game_Over","path":"rooms/Room_Game_Over/Room_Game_Over.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
