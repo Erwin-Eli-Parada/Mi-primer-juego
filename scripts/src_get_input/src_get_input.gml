@@ -7,5 +7,8 @@ function src_get_input(){
 	Down = keyboard_check (ord ("S"));
 	Atack = mouse_check_button(mb_left);
 	Pause = keyboard_check_released(vk_escape);
+	up_tap = keyboard_check_released(ord("W"));
+	down_tap = keyboard_check_released(ord("S"));
+	Enter = keyboard_check(vk_enter);
 }
 

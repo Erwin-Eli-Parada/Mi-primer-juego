@@ -3,7 +3,8 @@
 spd = 5;
 hp=obj_game_controller.player_data[? "hp"];
 state = src_state_idle;
-if(room == Sala1){
+
+if(room == Sala1 && !audio_is_playing(bgm_Lights_out)){
 	audio_play_sound(bgm_Lights_out,0,true);
 }
 
