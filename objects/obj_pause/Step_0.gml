@@ -1,3 +1,6 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-save_hp_to_controller();
+src_get_input();
+if(Pause){
+	instance_destroy();	
+}

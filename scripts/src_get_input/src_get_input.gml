@@ -6,5 +6,6 @@ function src_get_input(){
 	Up = keyboard_check (ord ("W"));
 	Down = keyboard_check (ord ("S"));
 	Atack = mouse_check_button(mb_left);
+	Pause = keyboard_check_released(vk_escape);
 }
 

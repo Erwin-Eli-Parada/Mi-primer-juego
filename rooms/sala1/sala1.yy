@@ -26,6 +26,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":416.0,"y":224.0,"resourceVersion":"1.0","name":"inst_6E9AA53D","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_hazard","path":"objects/obj_hazard/obj_hazard.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":544.0,"y":224.0,"resourceVersion":"1.0","name":"inst_298E39A5","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_enemy_neo","path":"objects/obj_enemy_neo/obj_enemy_neo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":224.0,"resourceVersion":"1.0","name":"inst_45FF4F5","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_save_point","path":"objects/obj_save_point/obj_save_point.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":608.0,"y":64.0,"resourceVersion":"1.0","name":"inst_1793DFA9","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"tile_set_city","path":"tilesets/tile_set_city/tile_set_city.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":86,"SerialiseHeight":48,"TileSerialiseData":[
 3333,2787,2787,2787,2787,3376,348,349,350,351,352,286,286,286,286,286,286,286,286,286,286,286,352,286,348,349,350,351,352,353,1426,1427,1428,1429,1430,1431,1432,1433,1434,1435,1426,1427,1428,1429,1430,1431,1432,1433,1434,1435,1426,1427,1428,1429,1430,1431,1432,1433,1434,1435,2597,2597,2597,2597,2597,2597,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
@@ -93,6 +94,7 @@
     {"name":"inst_298E39A5","path":"rooms/Sala1/Sala1.yy",},
     {"name":"inst_273707A2","path":"rooms/Sala1/Sala1.yy",},
     {"name":"inst_45FF4F5","path":"rooms/Sala1/Sala1.yy",},
+    {"name":"inst_1793DFA9","path":"rooms/Sala1/Sala1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
