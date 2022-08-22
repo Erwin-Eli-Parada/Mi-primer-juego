@@ -22,8 +22,10 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_go_to_room","path":"objects/obj_go_to_room/obj_go_to_room.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.5,"scaleY":0.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_273707A2","tags":[],"resourceType":"GMRInstance",},
       ],"visible":false,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"coliciones","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_game_controller","path":"objects/obj_game_controller/obj_game_controller.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-32.0,"y":160.0,"resourceVersion":"1.0","name":"inst_4DC58FA2","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":416.0,"y":224.0,"resourceVersion":"1.0","name":"inst_6E9AA53D","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_hazard","path":"objects/obj_hazard/obj_hazard.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":544.0,"y":224.0,"resourceVersion":"1.0","name":"inst_298E39A5","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_enemy_neo","path":"objects/obj_enemy_neo/obj_enemy_neo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":224.0,"resourceVersion":"1.0","name":"inst_45FF4F5","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"tile_set_city","path":"tilesets/tile_set_city/tile_set_city.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":86,"SerialiseHeight":48,"TileSerialiseData":[
 3333,2787,2787,2787,2787,3376,348,349,350,351,352,286,286,286,286,286,286,286,286,286,286,286,352,286,348,349,350,351,352,353,1426,1427,1428,1429,1430,1431,1432,1433,1434,1435,1426,1427,1428,1429,1430,1431,1432,1433,1434,1435,1426,1427,1428,1429,1430,1431,1432,1433,1434,1435,2597,2597,2597,2597,2597,2597,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,
@@ -81,6 +83,7 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
+    {"name":"inst_4DC58FA2","path":"rooms/Sala1/Sala1.yy",},
     {"name":"inst_6E9AA53D","path":"rooms/Sala1/Sala1.yy",},
     {"name":"inst_5DAB1D7A","path":"rooms/Sala1/Sala1.yy",},
     {"name":"inst_64F4C6E6","path":"rooms/Sala1/Sala1.yy",},
@@ -89,6 +92,7 @@
     {"name":"inst_7FB2D051","path":"rooms/Sala1/Sala1.yy",},
     {"name":"inst_298E39A5","path":"rooms/Sala1/Sala1.yy",},
     {"name":"inst_273707A2","path":"rooms/Sala1/Sala1.yy",},
+    {"name":"inst_45FF4F5","path":"rooms/Sala1/Sala1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

@@ -3,12 +3,12 @@
 function src_state_move(){
 	if(Right){
 		x= x + spd;
-		image_xscale=1;
+		x_dir=1;
 	}else if(Left){
 		x= x - spd;
-		image_xscale=-1;
+		x_dir=-1;
 	}
-	
+	image_xscale=x_dir;
 	if(Up){
 		y= y - spd;
 	}else if(Down){
@@ -16,4 +16,8 @@ function src_state_move(){
 	}
 	
 	sprite_index = spr_player_running;
+	
+	if(!Right && !Left && !Up && !Down){
+		state = src_state_idle;
+	}
 }
