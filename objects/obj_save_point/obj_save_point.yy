@@ -1,16 +1,15 @@
 {
-  "name": "obj_save_point",
   "spriteId": {
     "name": "spr_go_to_room",
     "path": "sprites/spr_go_to_room/spr_go_to_room.yy",
   },
-  "spriteMaskId": null,
-  "visible": true,
   "solid": false,
-  "persistent": false,
-  "physicsObject": true,
+  "visible": true,
   "managed": true,
+  "spriteMaskId": null,
+  "persistent": false,
   "parentObjectId": null,
+  "physicsObject": true,
   "physicsSensor": true,
   "physicsShape": 1,
   "physicsGroup": 1,
@@ -37,6 +36,7 @@
     "path": "folders/Objetos.yy",
   },
   "resourceVersion": "1.0",
+  "name": "obj_save_point",
   "tags": [],
   "resourceType": "GMObject",
 }
